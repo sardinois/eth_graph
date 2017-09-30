@@ -10,7 +10,7 @@ class Transaction():
 
     @property
     def from_address(self) -> str:
-        passG
+        pass
 
     @property
     def to_address(self) -> str:
